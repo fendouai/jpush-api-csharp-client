@@ -1,5 +1,7 @@
 # JPush API client library for CSharp
-
+14:4646
+星期四
+2016年9月22日
 test 10:35
 
 ## 概述
